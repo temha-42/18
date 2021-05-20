@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{D0E6BFC6-4152-4B89-A57C-F5EC593F38C6}'];loadHandler&&loadHandler(12, '<div id="spr0_18896af8"><div id="spr1_18896af8" class="kern slide"><img id="img2_18896af8" src="data/img2.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_18896af8" class="kern slide"><div id="spr3_18896af8" style="left:0px;"><img id="img0_18896af8" src="data/img0.png" width="960" height="555" alt="metin, beyaz tahta içeren bir resim\
+\
+Açıklama otomatik olarak oluşturuldu" style="left:-0px;top:-0.023px;"/></div><div id="spr4_18896af8" style="left:130.131px;top:20.614px;"><img id="img1_18896af8" src="data/img30.png" width="700" height="499" alt="" style="left:-0.131px;top:-0.114px;"/></div></div></div>', '{"s":[]}');})();
